@@ -21,18 +21,18 @@ import classNames from "classnames";
 
 // reactstrap components
 import {
-  Button,
-  Collapse,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  UncontrolledDropdown,
+  // Button,
+  // Collapse,
+  // DropdownToggle,
+  // DropdownMenu,
+  // DropdownItem,
+  // UncontrolledDropdown,
   Input,
-  InputGroup,
+  // InputGroup,
   NavbarBrand,
   Navbar,
-  NavLink,
-  Nav,
+  // NavLink,
+  // Nav,
   Container,
   Modal
 } from "reactstrap";
